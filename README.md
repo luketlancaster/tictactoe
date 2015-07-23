@@ -14,3 +14,5 @@ Clone it down:
 `cd` into your new project directory (it was created for you with git clone)
 
 You now have a local copy of your Git repo. Use your usual commands to interact with it (i.e. `git commit`, `git add`, `git push`, etc.
+
+To add collaborators (needed if you want a partner pushing up to your repo) go to settings, collaborators, and add them with their GitHub username.
